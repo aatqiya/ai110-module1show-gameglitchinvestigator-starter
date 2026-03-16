@@ -48,9 +48,8 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-> **TODO (action required):** Run the fixed game with `python -m streamlit run app.py`, win a round, then take a screenshot and replace the line below with: `![Fixed Game Screenshot](screenshot.png)`
+![Fixed Game Screenshot](Screenshot.png)
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
