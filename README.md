@@ -53,4 +53,8 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+### Challenge 1: Advanced Edge-Case Testing ✅
+
+Used Claude Code to identify edge-case inputs (decimals, negatives, empty strings, boundary values) and wrote a full pytest suite covering all four logic functions. 20 tests total, all passing.
+
+![Pytest Results](Screenshot2.png)
